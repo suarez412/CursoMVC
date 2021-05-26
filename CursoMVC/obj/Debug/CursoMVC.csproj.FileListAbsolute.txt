@@ -74,3 +74,7 @@ D:\CURSOS\CURSO_MVC\CursoMVC\CursoMVC\obj\Debug\CursoMVC.csproj.CoreCompileInput
 D:\CURSOS\CURSO_MVC\CursoMVC\CursoMVC\obj\Debug\CursoMVC.csproj.CopyComplete
 D:\CURSOS\CURSO_MVC\CursoMVC\CursoMVC\obj\Debug\CursoMVC.dll
 D:\CURSOS\CURSO_MVC\CursoMVC\CursoMVC\obj\Debug\CursoMVC.pdb
+D:\CURSOS\CURSO_MVC\CursoMVC\CursoMVC\bin\EntityFramework.dll
+D:\CURSOS\CURSO_MVC\CursoMVC\CursoMVC\bin\EntityFramework.SqlServer.dll
+D:\CURSOS\CURSO_MVC\CursoMVC\CursoMVC\bin\EntityFramework.xml
+D:\CURSOS\CURSO_MVC\CursoMVC\CursoMVC\bin\EntityFramework.SqlServer.xml
